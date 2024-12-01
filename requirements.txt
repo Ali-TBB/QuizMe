@@ -1,0 +1,4 @@
+questionary
+python-dotenv
+google.generativeai
+flask
