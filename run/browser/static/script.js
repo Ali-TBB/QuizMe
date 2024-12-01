@@ -272,7 +272,7 @@ $('.btn[data-action="submit"]').click(function () {
 });
 
 $('.btn[data-action="regenerate"]').click(function () {
-  window.location.href = './single.html';
+  window.location.href = './';
 });
 
 $(document).ready(async function () {
